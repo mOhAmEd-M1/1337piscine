@@ -1,0 +1,5 @@
+Credentials cache: API:CB91DE69-48BA-4058-8F24-D73F8B6E3001
+        Principal: mmasstou@1337.MA
+
+  Issued                Expires               Principal
+Jun 22 19:31:27 2021  Jun 23 05:31:10 2021  krbtgt/1337.MA@1337.MA
