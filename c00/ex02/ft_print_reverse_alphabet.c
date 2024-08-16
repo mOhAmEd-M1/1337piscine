@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_orint_reverse_alphabet.c                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: mmasstou <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: mmasstou <mmasstou@student.1337.ma>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/06/24 12:59:23 by mmasstou          #+#    #+#             */
 /*   Updated: 2021/06/24 13:11:51 by mmasstou         ###   ########.fr       */
